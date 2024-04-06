@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+}
+
+h1 {
+    color: #e6df44;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: black;
+    text-align: left;
+    top: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 20px;
+}
